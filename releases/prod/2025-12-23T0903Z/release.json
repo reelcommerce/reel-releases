@@ -1,0 +1,14 @@
+{
+  "release_id": "2025-12-23T0903Z",
+  "environment": "prod",
+  "created_utc": "2025-12-23T09:03:40Z",
+  "source": {
+    "repo": "reelcommerce/reel-docker",
+    "sha": "ca80e111083edea39eca6d8a93eb69688073e028",
+    "workflow": "Build & Push Docker Services",
+    "run_id": "20456272659"
+  },
+  "images_env": "images.env",
+  "base_release": null,
+  "changes": []
+}
